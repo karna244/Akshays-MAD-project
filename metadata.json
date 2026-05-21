@@ -1,0 +1,6 @@
+{
+  "name": "Akshay's Toll gate system",
+  "description": "An interactive, beautiful full-stack electronic toll barrier command center with dynamic fare pricing, live license plate OCR audits, prepaid RFID tags, and Gemini AI reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
